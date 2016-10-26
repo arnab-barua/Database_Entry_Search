@@ -1,0 +1,11 @@
+C:\Users\JITU\Documents\Visual Studio 2012\Projects\NexaSearch\NexaSearch\bin\NexaSearch.dll
+C:\Users\JITU\Documents\Visual Studio 2012\Projects\NexaSearch\NexaSearch\bin\NexaSearch.pdb
+C:\Users\JITU\Documents\Visual Studio 2012\Projects\NexaSearch\NexaSearch\obj\Debug\NexaSearch.csprojResolveAssemblyReference.cache
+C:\Users\JITU\Documents\Visual Studio 2012\Projects\NexaSearch\NexaSearch\obj\Debug\NexaSearch.dll
+C:\Users\JITU\Documents\Visual Studio 2012\Projects\NexaSearch\NexaSearch\obj\Debug\NexaSearch.pdb
+C:\Users\JITU\Documents\Visual Studio 2015\Projects\NexaSearch\NexaSearch\bin\NexaSearch.dll.config
+C:\Users\JITU\Documents\Visual Studio 2015\Projects\NexaSearch\NexaSearch\bin\NexaSearch.dll
+C:\Users\JITU\Documents\Visual Studio 2015\Projects\NexaSearch\NexaSearch\bin\NexaSearch.pdb
+C:\Users\JITU\Documents\Visual Studio 2015\Projects\NexaSearch\NexaSearch\obj\Debug\NexaSearch.csprojResolveAssemblyReference.cache
+C:\Users\JITU\Documents\Visual Studio 2015\Projects\NexaSearch\NexaSearch\obj\Debug\NexaSearch.dll
+C:\Users\JITU\Documents\Visual Studio 2015\Projects\NexaSearch\NexaSearch\obj\Debug\NexaSearch.pdb
